@@ -1,0 +1,2798 @@
+{
+   "counties":[
+      {
+         "county":"Anderson County",
+         "neighboring":[
+            "Cherokee County",
+            "Freestone County",
+            "Henderson County",
+            "Houston County",
+            "Leon County"
+         ]
+      },
+      {
+         "county":"Andrews County",
+         "neighboring":[
+            "Lea County",
+            "Ector County",
+            "Gaines County",
+            "Martin County",
+            "Midland County",
+            "Winkler County"
+         ]
+      },
+      {
+         "county":"Angelina County",
+         "neighboring":[
+            "Cherokee County",
+            "Houston County",
+            "Jasper County",
+            "Nacogdoches County",
+            "Polk County",
+            "San Augustine County",
+            "Trinity County",
+            "Tyler County"
+         ]
+      },
+      {
+         "county":"Aransas County",
+         "neighboring":[
+            "Calhoun County",
+            "Nueces County",
+            "Refugio County",
+            "San Patricio County"
+         ]
+      },
+      {
+         "county":"Archer County",
+         "neighboring":[
+            "Baylor County",
+            "Clay County",
+            "Jack County",
+            "Throckmorton County",
+            "Wichita County",
+            "Wilbarger County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Armstrong County",
+         "neighboring":[
+            "Briscoe County",
+            "Carson County",
+            "Donley County",
+            "Gray County",
+            "Potter County",
+            "Randall County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Atascosa County",
+         "neighboring":[
+            "Bexar County",
+            "Frio County",
+            "Karnes County",
+            "La Salle County",
+            "Live Oak County",
+            "McMullen County",
+            "Medina County",
+            "Wilson County"
+         ]
+      },
+      {
+         "county":"Austin County",
+         "neighboring":[
+            "Colorado County",
+            "Fayette County",
+            "Fort Bend County",
+            "Waller County",
+            "Washington County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Bailey County",
+         "neighboring":[
+            "Curry County",
+            "Roosevelt County",
+            "Cochran County",
+            "Hockley County",
+            "Lamb County",
+            "Parmer County"
+         ]
+      },
+      {
+         "county":"Bandera County",
+         "neighboring":[
+            "Bexar County",
+            "Kendall County",
+            "Kerr County",
+            "Medina County",
+            "Real County",
+            "Uvalde County"
+         ]
+      },
+      {
+         "county":"Bastrop County",
+         "neighboring":[
+            "Caldwell County",
+            "Fayette County",
+            "Lee County",
+            "Travis County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Baylor County",
+         "neighboring":[
+            "Archer County",
+            "Foard County",
+            "Haskell County",
+            "Knox County",
+            "Throckmorton County",
+            "Wichita County",
+            "Wilbarger County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Bee County",
+         "neighboring":[
+            "Goliad County",
+            "Karnes County",
+            "Live Oak County",
+            "Refugio County",
+            "San Patricio County"
+         ]
+      },
+      {
+         "county":"Bell County",
+         "neighboring":[
+            "Burnet County",
+            "Coryell County",
+            "Falls County",
+            "Lampasas County",
+            "McLennan County",
+            "Milam County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Bexar County",
+         "neighboring":[
+            "Atascosa County",
+            "Bandera County",
+            "Comal County",
+            "Guadalupe County",
+            "Kendall County",
+            "Medina County",
+            "Wilson County"
+         ]
+      },
+      {
+         "county":"Blanco County",
+         "neighboring":[
+            "Burnet County",
+            "Comal County",
+            "Gillespie County",
+            "Hays County",
+            "Kendall County",
+            "Llano County",
+            "Travis County"
+         ]
+      },
+      {
+         "county":"Borden County",
+         "neighboring":[
+            "Dawson County",
+            "Garza County",
+            "Howard County",
+            "Lynn County",
+            "Martin County",
+            "Mitchell County",
+            "Scurry County"
+         ]
+      },
+      {
+         "county":"Bosque County",
+         "neighboring":[
+            "Coryell County",
+            "Erath County",
+            "Hamilton County",
+            "Hill County",
+            "Johnson County",
+            "McLennan County",
+            "Somervell County"
+         ]
+      },
+      {
+         "county":"Bowie County",
+         "neighboring":[
+            "Little River County",
+            "Miller County",
+            "McCurtain County",
+            "Cass County",
+            "Morris County",
+            "Red River County"
+         ]
+      },
+      {
+         "county":"Brazoria County",
+         "neighboring":[
+            "Fort Bend County",
+            "Galveston County",
+            "Harris County",
+            "Matagorda County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Brazos County",
+         "neighboring":[
+            "Burleson County",
+            "Grimes County",
+            "Leon County",
+            "Madison County",
+            "Robertson County",
+            "Washington County"
+         ]
+      },
+      {
+         "county":"Brewster County",
+         "neighboring":[
+            "Jeff Davis County",
+            "Pecos County",
+            "Presidio County",
+            "Terrell County"
+         ]
+      },
+      {
+         "county":"Briscoe County",
+         "neighboring":[
+            "Armstrong County",
+            "Donley County",
+            "Floyd County",
+            "Hall County",
+            "Motley County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Brooks County",
+         "neighboring":[
+            "Duval County",
+            "Hidalgo County",
+            "Jim Hogg County",
+            "Jim Wells County",
+            "Kenedy County",
+            "Kleberg County",
+            "Starr County"
+         ]
+      },
+      {
+         "county":"Brown County",
+         "neighboring":[
+            "Callahan County",
+            "Coleman County",
+            "Comanche County",
+            "Eastland County",
+            "McCulloch County",
+            "Mills County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"Burleson County",
+         "neighboring":[
+            "Brazos County",
+            "Lee County",
+            "Milam County",
+            "Robertson County",
+            "Washington County"
+         ]
+      },
+      {
+         "county":"Burnet County",
+         "neighboring":[
+            "Bell County",
+            "Blanco County",
+            "Lampasas County",
+            "Llano County",
+            "San Saba County",
+            "Travis County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Caldwell County",
+         "neighboring":[
+            "Bastrop County",
+            "Fayette County",
+            "Gonzales County",
+            "Guadalupe County",
+            "Hays County",
+            "Travis County"
+         ]
+      },
+      {
+         "county":"Calhoun County",
+         "neighboring":[
+            "Aransas County",
+            "Jackson County",
+            "Matagorda County",
+            "Refugio County",
+            "Victoria County"
+         ]
+      },
+      {
+         "county":"Callahan County",
+         "neighboring":[
+            "Brown County",
+            "Coleman County",
+            "Eastland County",
+            "Jones County",
+            "Shackelford County",
+            "Taylor County"
+         ]
+      },
+      {
+         "county":"Cameron County",
+         "neighboring":[
+            "Hidalgo County",
+            "Willacy County"
+         ]
+      },
+      {
+         "county":"Camp County",
+         "neighboring":[
+            "Franklin County",
+            "Morris County",
+            "Titus County",
+            "Upshur County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Carson County",
+         "neighboring":[
+            "Armstrong County",
+            "Donley County",
+            "Gray County",
+            "Hutchinson County",
+            "Moore County",
+            "Potter County",
+            "Randall County",
+            "Roberts County"
+         ]
+      },
+      {
+         "county":"Cass County",
+         "neighboring":[
+            "Miller County",
+            "Caddo Parish",
+            "Bowie County",
+            "Marion County",
+            "Morris County"
+         ]
+      },
+      {
+         "county":"Castro County",
+         "neighboring":[
+            "Deaf Smith County",
+            "Hale County",
+            "Lamb County",
+            "Parmer County",
+            "Randall County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Chambers County",
+         "neighboring":[
+            "Galveston County",
+            "Harris County",
+            "Jefferson County",
+            "Liberty County"
+         ]
+      },
+      {
+         "county":"Cherokee County",
+         "neighboring":[
+            "Anderson County",
+            "Angelina County",
+            "Henderson County",
+            "Houston County",
+            "Nacogdoches County",
+            "Rusk County",
+            "Smith County"
+         ]
+      },
+      {
+         "county":"Childress County",
+         "neighboring":[
+            "Harmon County",
+            "Collingsworth County",
+            "Cottle County",
+            "Hall County",
+            "Hardeman County"
+         ]
+      },
+      {
+         "county":"Clay County",
+         "neighboring":[
+            "Cotton County",
+            "Jefferson County",
+            "Archer County",
+            "Jack County",
+            "Montague County",
+            "Wichita County"
+         ]
+      },
+      {
+         "county":"Cochran County",
+         "neighboring":[
+            "Lea County",
+            "Roosevelt County",
+            "Bailey County",
+            "Hockley County",
+            "Lamb County",
+            "Terry County",
+            "Yoakum County"
+         ]
+      },
+      {
+         "county":"Coke County",
+         "neighboring":[
+            "Mitchell County",
+            "Nolan County",
+            "Runnels County",
+            "Sterling County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Coleman County",
+         "neighboring":[
+            "Brown County",
+            "Callahan County",
+            "Concho County",
+            "McCulloch County",
+            "Runnels County",
+            "Taylor County"
+         ]
+      },
+      {
+         "county":"Collin County",
+         "neighboring":[
+            "Dallas County",
+            "Denton County",
+            "Fannin County",
+            "Grayson County",
+            "Hunt County",
+            "Rockwall County"
+         ]
+      },
+      {
+         "county":"Collingsworth County",
+         "neighboring":[
+            "Beckham County",
+            "Harmon County",
+            "Childress County",
+            "Donley County",
+            "Gray County",
+            "Hall County",
+            "Wheeler County"
+         ]
+      },
+      {
+         "county":"Colorado County",
+         "neighboring":[
+            "Austin County",
+            "Fayette County",
+            "Jackson County",
+            "Lavaca County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Comal County",
+         "neighboring":[
+            "Bexar County",
+            "Blanco County",
+            "Guadalupe County",
+            "Hays County",
+            "Kendall County"
+         ]
+      },
+      {
+         "county":"Comanche County",
+         "neighboring":[
+            "Brown County",
+            "Eastland County",
+            "Erath County",
+            "Hamilton County",
+            "Mills County"
+         ]
+      },
+      {
+         "county":"Concho County",
+         "neighboring":[
+            "Coleman County",
+            "McCulloch County",
+            "Menard County",
+            "Runnels County",
+            "Schleicher County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Cooke County",
+         "neighboring":[
+            "Love County",
+            "Denton County",
+            "Grayson County",
+            "Montague County",
+            "Wise County"
+         ]
+      },
+      {
+         "county":"Coryell County",
+         "neighboring":[
+            "Bell County",
+            "Bosque County",
+            "Hamilton County",
+            "Lampasas County",
+            "McLennan County"
+         ]
+      },
+      {
+         "county":"Cottle County",
+         "neighboring":[
+            "Childress County",
+            "Dickens County",
+            "Foard County",
+            "Hall County",
+            "Hardeman County",
+            "King County",
+            "Motley County"
+         ]
+      },
+      {
+         "county":"Crane County",
+         "neighboring":[
+            "Crockett County",
+            "Ector County",
+            "Pecos County",
+            "Upton County",
+            "Ward County"
+         ]
+      },
+      {
+         "county":"Crockett County",
+         "neighboring":[
+            "Crane County",
+            "Irion County",
+            "Pecos County",
+            "Reagan County",
+            "Schleicher County",
+            "Sutton County",
+            "Terrell County",
+            "Upton County",
+            "Val Verde County"
+         ]
+      },
+      {
+         "county":"Crosby County",
+         "neighboring":[
+            "Dickens County",
+            "Floyd County",
+            "Garza County",
+            "Hale County",
+            "Kent County",
+            "Lubbock County",
+            "Lynn County",
+            "Motley County"
+         ]
+      },
+      {
+         "county":"Culberson County",
+         "neighboring":[
+            "Eddy County",
+            "Otero County",
+            "Hudspeth County",
+            "Jeff Davis County",
+            "Reeves County"
+         ]
+      },
+      {
+         "county":"Dallam County",
+         "neighboring":[
+            "Union County",
+            "Cimarron County",
+            "Hartley County",
+            "Moore County",
+            "Sherman County"
+         ]
+      },
+      {
+         "county":"Dallas County",
+         "neighboring":[
+            "Collin County",
+            "Denton County",
+            "Ellis County",
+            "Kaufman County",
+            "Rockwall County",
+            "Tarrant County"
+         ]
+      },
+      {
+         "county":"Dawson County",
+         "neighboring":[
+            "Borden County",
+            "Gaines County",
+            "Howard County",
+            "Lynn County",
+            "Martin County",
+            "Terry County"
+         ]
+      },
+      {
+         "county":"Deaf Smith County",
+         "neighboring":[
+            "Curry County",
+            "Quay County",
+            "Castro County",
+            "Oldham County",
+            "Parmer County",
+            "Potter County",
+            "Randall County"
+         ]
+      },
+      {
+         "county":"Delta County",
+         "neighboring":[
+            "Fannin County",
+            "Franklin County",
+            "Hopkins County",
+            "Hunt County",
+            "Lamar County",
+            "Red River County"
+         ]
+      },
+      {
+         "county":"Denton County",
+         "neighboring":[
+            "Collin County",
+            "Cooke County",
+            "Dallas County",
+            "Grayson County",
+            "Tarrant County",
+            "Wise County"
+         ]
+      },
+      {
+         "county":"DeWitt County",
+         "neighboring":[
+            "Goliad County",
+            "Gonzales County",
+            "Karnes County",
+            "Lavaca County",
+            "Victoria County"
+         ]
+      },
+      {
+         "county":"Dickens County",
+         "neighboring":[
+            "Cottle County",
+            "Crosby County",
+            "Floyd County",
+            "Garza County",
+            "Kent County",
+            "King County",
+            "Motley County",
+            "Stonewall County"
+         ]
+      },
+      {
+         "county":"Dimmit County",
+         "neighboring":[
+            "Frio County",
+            "La Salle County",
+            "Maverick County",
+            "Webb County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Donley County",
+         "neighboring":[
+            "Armstrong County",
+            "Briscoe County",
+            "Carson County",
+            "Collingsworth County",
+            "Gray County",
+            "Hall County",
+            "Wheeler County"
+         ]
+      },
+      {
+         "county":"Duval County",
+         "neighboring":[
+            "Brooks County",
+            "Jim Hogg County",
+            "Jim Wells County",
+            "La Salle County",
+            "Live Oak County",
+            "McMullen County",
+            "Webb County"
+         ]
+      },
+      {
+         "county":"Eastland County",
+         "neighboring":[
+            "Brown County",
+            "Callahan County",
+            "Comanche County",
+            "Erath County",
+            "Palo Pinto County",
+            "Shackelford County",
+            "Stephens County"
+         ]
+      },
+      {
+         "county":"Ector County",
+         "neighboring":[
+            "Andrews County",
+            "Crane County",
+            "Midland County",
+            "Upton County",
+            "Ward County",
+            "Winkler County"
+         ]
+      },
+      {
+         "county":"Edwards County",
+         "neighboring":[
+            "Kerr County",
+            "Kimble County",
+            "Kinney County",
+            "Real County",
+            "Sutton County",
+            "Uvalde County",
+            "Val Verde County"
+         ]
+      },
+      {
+         "county":"Ellis County",
+         "neighboring":[
+            "Dallas County",
+            "Henderson County",
+            "Hill County",
+            "Johnson County",
+            "Kaufman County",
+            "Navarro County",
+            "Tarrant County"
+         ]
+      },
+      {
+         "county":"El Paso County",
+         "neighboring":[
+            "Do±a Ana County",
+            "Otero County",
+            "Hudspeth County"
+         ]
+      },
+      {
+         "county":"Erath County",
+         "neighboring":[
+            "Bosque County",
+            "Comanche County",
+            "Eastland County",
+            "Hamilton County",
+            "Hood County",
+            "Palo Pinto County",
+            "Somervell County"
+         ]
+      },
+      {
+         "county":"Falls County",
+         "neighboring":[
+            "Bell County",
+            "Limestone County",
+            "McLennan County",
+            "Milam County",
+            "Robertson County"
+         ]
+      },
+      {
+         "county":"Fannin County",
+         "neighboring":[
+            "Bryan County",
+            "Collin County",
+            "Delta County",
+            "Grayson County",
+            "Hunt County",
+            "Lamar County"
+         ]
+      },
+      {
+         "county":"Fayette County",
+         "neighboring":[
+            "Austin County",
+            "Bastrop County",
+            "Caldwell County",
+            "Colorado County",
+            "Gonzales County",
+            "Lavaca County",
+            "Lee County",
+            "Washington County"
+         ]
+      },
+      {
+         "county":"Fisher County",
+         "neighboring":[
+            "Jones County",
+            "Kent County",
+            "Mitchell County",
+            "Nolan County",
+            "Scurry County",
+            "Stonewall County",
+            "Taylor County"
+         ]
+      },
+      {
+         "county":"Floyd County",
+         "neighboring":[
+            "Briscoe County",
+            "Crosby County",
+            "Dickens County",
+            "Hale County",
+            "Lubbock County",
+            "Motley County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Foard County",
+         "neighboring":[
+            "Baylor County",
+            "Cottle County",
+            "Hardeman County",
+            "King County",
+            "Knox County",
+            "Wilbarger County"
+         ]
+      },
+      {
+         "county":"Fort Bend County",
+         "neighboring":[
+            "Austin County",
+            "Brazoria County",
+            "Harris County",
+            "Waller County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Franklin County",
+         "neighboring":[
+            "Camp County",
+            "Delta County",
+            "Hopkins County",
+            "Red River County",
+            "Titus County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Freestone County",
+         "neighboring":[
+            "Anderson County",
+            "Henderson County",
+            "Leon County",
+            "Limestone County",
+            "Navarro County"
+         ]
+      },
+      {
+         "county":"Frio County",
+         "neighboring":[
+            "Atascosa County",
+            "Dimmit County",
+            "La Salle County",
+            "Medina County",
+            "Uvalde County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Gaines County",
+         "neighboring":[
+            "Lea County",
+            "Andrews County",
+            "Dawson County",
+            "Martin County",
+            "Terry County",
+            "Yoakum County"
+         ]
+      },
+      {
+         "county":"Galveston County",
+         "neighboring":[
+            "Brazoria County",
+            "Chambers County",
+            "Harris County"
+         ]
+      },
+      {
+         "county":"Garza County",
+         "neighboring":[
+            "Borden County",
+            "Crosby County",
+            "Dickens County",
+            "Kent County",
+            "Lubbock County",
+            "Lynn County",
+            "Scurry County"
+         ]
+      },
+      {
+         "county":"Gillespie County",
+         "neighboring":[
+            "Blanco County",
+            "Kendall County",
+            "Kerr County",
+            "Kimble County",
+            "Llano County",
+            "Mason County"
+         ]
+      },
+      {
+         "county":"Glasscock County",
+         "neighboring":[
+            "Howard County",
+            "Martin County",
+            "Midland County",
+            "Reagan County",
+            "Sterling County",
+            "Upton County"
+         ]
+      },
+      {
+         "county":"Goliad County",
+         "neighboring":[
+            "Bee County",
+            "DeWitt County",
+            "Karnes County",
+            "Refugio County",
+            "Victoria County"
+         ]
+      },
+      {
+         "county":"Gonzales County",
+         "neighboring":[
+            "Caldwell County",
+            "DeWitt County",
+            "Fayette County",
+            "Guadalupe County",
+            "Karnes County",
+            "Lavaca County",
+            "Wilson County"
+         ]
+      },
+      {
+         "county":"Gray County",
+         "neighboring":[
+            "Armstrong County",
+            "Carson County",
+            "Collingsworth County",
+            "Donley County",
+            "Hemphill County",
+            "Roberts County",
+            "Wheeler County"
+         ]
+      },
+      {
+         "county":"Grayson County",
+         "neighboring":[
+            "Bryan County",
+            "Love County",
+            "Marshall County",
+            "Collin County",
+            "Cooke County",
+            "Denton County",
+            "Fannin County"
+         ]
+      },
+      {
+         "county":"Gregg County",
+         "neighboring":[
+            "Harrison County",
+            "Rusk County",
+            "Smith County",
+            "Upshur County"
+         ]
+      },
+      {
+         "county":"Grimes County",
+         "neighboring":[
+            "Brazos County",
+            "Madison County",
+            "Montgomery County",
+            "Walker County",
+            "Waller County",
+            "Washington County"
+         ]
+      },
+      {
+         "county":"Guadalupe County",
+         "neighboring":[
+            "Bexar County",
+            "Caldwell County",
+            "Comal County",
+            "Gonzales County",
+            "Hays County",
+            "Wilson County"
+         ]
+      },
+      {
+         "county":"Hale County",
+         "neighboring":[
+            "Castro County",
+            "Crosby County",
+            "Floyd County",
+            "Hockley County",
+            "Lamb County",
+            "Lubbock County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Hall County",
+         "neighboring":[
+            "Briscoe County",
+            "Childress County",
+            "Collingsworth County",
+            "Cottle County",
+            "Donley County",
+            "Motley County"
+         ]
+      },
+      {
+         "county":"Hamilton County",
+         "neighboring":[
+            "Bosque County",
+            "Comanche County",
+            "Coryell County",
+            "Erath County",
+            "Lampasas County",
+            "Mills County"
+         ]
+      },
+      {
+         "county":"Hansford County",
+         "neighboring":[
+            "Texas County",
+            "Hutchinson County",
+            "Moore County",
+            "Ochiltree County",
+            "Roberts County",
+            "Sherman County"
+         ]
+      },
+      {
+         "county":"Hardeman County",
+         "neighboring":[
+            "Harmon County",
+            "Jackson County",
+            "Childress County",
+            "Cottle County",
+            "Foard County",
+            "Wilbarger County"
+         ]
+      },
+      {
+         "county":"Hardin County",
+         "neighboring":[
+            "Jasper County",
+            "Jefferson County",
+            "Liberty County",
+            "Orange County",
+            "Polk County",
+            "Tyler County"
+         ]
+      },
+      {
+         "county":"Harris County",
+         "neighboring":[
+            "Brazoria County",
+            "Chambers County",
+            "Fort Bend County",
+            "Galveston County",
+            "Liberty County",
+            "Montgomery County",
+            "Waller County"
+         ]
+      },
+      {
+         "county":"Harrison County",
+         "neighboring":[
+            "Caddo Parish",
+            "Gregg County",
+            "Marion County",
+            "Panola County",
+            "Rusk County",
+            "Upshur County"
+         ]
+      },
+      {
+         "county":"Hartley County",
+         "neighboring":[
+            "Quay County",
+            "Union County",
+            "Dallam County",
+            "Moore County",
+            "Oldham County",
+            "Sherman County"
+         ]
+      },
+      {
+         "county":"Haskell County",
+         "neighboring":[
+            "Baylor County",
+            "Jones County",
+            "King County",
+            "Knox County",
+            "Shackelford County",
+            "Stonewall County",
+            "Throckmorton County"
+         ]
+      },
+      {
+         "county":"Hays County",
+         "neighboring":[
+            "Blanco County",
+            "Caldwell County",
+            "Comal County",
+            "Guadalupe County",
+            "Travis County"
+         ]
+      },
+      {
+         "county":"Hemphill County",
+         "neighboring":[
+            "Ellis County",
+            "Roger Mills County",
+            "Gray County",
+            "Lipscomb County",
+            "Roberts County",
+            "Wheeler County"
+         ]
+      },
+      {
+         "county":"Henderson County",
+         "neighboring":[
+            "Anderson County",
+            "Cherokee County",
+            "Ellis County",
+            "Freestone County",
+            "Kaufman County",
+            "Navarro County",
+            "Smith County",
+            "Van Zandt County"
+         ]
+      },
+      {
+         "county":"Hidalgo County",
+         "neighboring":[
+            "Brooks County",
+            "Cameron County",
+            "Kenedy County",
+            "Starr County",
+            "Willacy County"
+         ]
+      },
+      {
+         "county":"Hill County",
+         "neighboring":[
+            "Bosque County",
+            "Ellis County",
+            "Johnson County",
+            "Limestone County",
+            "McLennan County",
+            "Navarro County"
+         ]
+      },
+      {
+         "county":"Hockley County",
+         "neighboring":[
+            "Bailey County",
+            "Cochran County",
+            "Hale County",
+            "Lamb County",
+            "Lubbock County",
+            "Lynn County",
+            "Terry County",
+            "Yoakum County"
+         ]
+      },
+      {
+         "county":"Hood County",
+         "neighboring":[
+            "Erath County",
+            "Johnson County",
+            "Palo Pinto County",
+            "Parker County",
+            "Somervell County"
+         ]
+      },
+      {
+         "county":"Hopkins County",
+         "neighboring":[
+            "Delta County",
+            "Franklin County",
+            "Hunt County",
+            "Rains County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Houston County",
+         "neighboring":[
+            "Anderson County",
+            "Angelina County",
+            "Cherokee County",
+            "Leon County",
+            "Madison County",
+            "Trinity County",
+            "Walker County"
+         ]
+      },
+      {
+         "county":"Howard County",
+         "neighboring":[
+            "Borden County",
+            "Dawson County",
+            "Glasscock County",
+            "Martin County",
+            "Mitchell County",
+            "Sterling County"
+         ]
+      },
+      {
+         "county":"Hudspeth County",
+         "neighboring":[
+            "Otero County",
+            "Culberson County",
+            "El Paso County",
+            "Jeff Davis County",
+            "Presidio County"
+         ]
+      },
+      {
+         "county":"Hunt County",
+         "neighboring":[
+            "Collin County",
+            "Delta County",
+            "Fannin County",
+            "Hopkins County",
+            "Kaufman County",
+            "Rains County",
+            "Rockwall County",
+            "Van Zandt County"
+         ]
+      },
+      {
+         "county":"Hutchinson County",
+         "neighboring":[
+            "Carson County",
+            "Hansford County",
+            "Moore County",
+            "Roberts County",
+            "Sherman County"
+         ]
+      },
+      {
+         "county":"Irion County",
+         "neighboring":[
+            "Crockett County",
+            "Reagan County",
+            "Schleicher County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Jack County",
+         "neighboring":[
+            "Archer County",
+            "Clay County",
+            "Montague County",
+            "Palo Pinto County",
+            "Parker County",
+            "Wise County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Jackson County",
+         "neighboring":[
+            "Calhoun County",
+            "Colorado County",
+            "Lavaca County",
+            "Matagorda County",
+            "Victoria County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Jasper County",
+         "neighboring":[
+            "Angelina County",
+            "Hardin County",
+            "Newton County",
+            "Orange County",
+            "Sabine County",
+            "San Augustine County",
+            "Tyler County"
+         ]
+      },
+      {
+         "county":"Jeff Davis County",
+         "neighboring":[
+            "Brewster County",
+            "Culberson County",
+            "Hudspeth County",
+            "Pecos County",
+            "Presidio County",
+            "Reeves County"
+         ]
+      },
+      {
+         "county":"Jefferson County",
+         "neighboring":[
+            "Cameron Parish",
+            "Chambers County",
+            "Hardin County",
+            "Liberty County",
+            "Orange County"
+         ]
+      },
+      {
+         "county":"Jim Hogg County",
+         "neighboring":[
+            "Brooks County",
+            "Duval County",
+            "Starr County",
+            "Webb County",
+            "Zapata County"
+         ]
+      },
+      {
+         "county":"Jim Wells County",
+         "neighboring":[
+            "Brooks County",
+            "Duval County",
+            "Kleberg County",
+            "Live Oak County",
+            "Nueces County",
+            "San Patricio County"
+         ]
+      },
+      {
+         "county":"Johnson County",
+         "neighboring":[
+            "Bosque County",
+            "Ellis County",
+            "Hill County",
+            "Hood County",
+            "Parker County",
+            "Somervell County",
+            "Tarrant County"
+         ]
+      },
+      {
+         "county":"Jones County",
+         "neighboring":[
+            "Callahan County",
+            "Fisher County",
+            "Haskell County",
+            "Nolan County",
+            "Shackelford County",
+            "Stonewall County",
+            "Taylor County"
+         ]
+      },
+      {
+         "county":"Karnes County",
+         "neighboring":[
+            "Atascosa County",
+            "Bee County",
+            "DeWitt County",
+            "Goliad County",
+            "Gonzales County",
+            "Live Oak County",
+            "Wilson County"
+         ]
+      },
+      {
+         "county":"Kaufman County",
+         "neighboring":[
+            "Dallas County",
+            "Ellis County",
+            "Henderson County",
+            "Hunt County",
+            "Rockwall County",
+            "Van Zandt County"
+         ]
+      },
+      {
+         "county":"Kendall County",
+         "neighboring":[
+            "Bandera County",
+            "Bexar County",
+            "Blanco County",
+            "Comal County",
+            "Gillespie County",
+            "Kerr County"
+         ]
+      },
+      {
+         "county":"Kenedy County",
+         "neighboring":[
+            "Brooks County",
+            "Hidalgo County",
+            "Kleberg County",
+            "Willacy County"
+         ]
+      },
+      {
+         "county":"Kent County",
+         "neighboring":[
+            "Crosby County",
+            "Dickens County",
+            "Fisher County",
+            "Garza County",
+            "King County",
+            "Scurry County",
+            "Stonewall County"
+         ]
+      },
+      {
+         "county":"Kerr County",
+         "neighboring":[
+            "Bandera County",
+            "Edwards County",
+            "Gillespie County",
+            "Kendall County",
+            "Kimble County",
+            "Real County"
+         ]
+      },
+      {
+         "county":"Kimble County",
+         "neighboring":[
+            "Edwards County",
+            "Gillespie County",
+            "Kerr County",
+            "Mason County",
+            "Menard County",
+            "Schleicher County",
+            "Sutton County"
+         ]
+      },
+      {
+         "county":"King County",
+         "neighboring":[
+            "Cottle County",
+            "Dickens County",
+            "Foard County",
+            "Haskell County",
+            "Kent County",
+            "Knox County",
+            "Motley County",
+            "Stonewall County"
+         ]
+      },
+      {
+         "county":"Kinney County",
+         "neighboring":[
+            "Edwards County",
+            "Maverick County",
+            "Uvalde County",
+            "Val Verde County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Kleberg County",
+         "neighboring":[
+            "Brooks County",
+            "Jim Wells County",
+            "Kenedy County",
+            "Nueces County"
+         ]
+      },
+      {
+         "county":"Knox County",
+         "neighboring":[
+            "Baylor County",
+            "Foard County",
+            "Haskell County",
+            "King County",
+            "Stonewall County",
+            "Throckmorton County"
+         ]
+      },
+      {
+         "county":"Lamar County",
+         "neighboring":[
+            "Bryan County",
+            "Choctaw County",
+            "Delta County",
+            "Fannin County",
+            "Red River County"
+         ]
+      },
+      {
+         "county":"Lamb County",
+         "neighboring":[
+            "Bailey County",
+            "Castro County",
+            "Cochran County",
+            "Hale County",
+            "Hockley County",
+            "Lubbock County",
+            "Parmer County"
+         ]
+      },
+      {
+         "county":"Lampasas County",
+         "neighboring":[
+            "Bell County",
+            "Burnet County",
+            "Coryell County",
+            "Hamilton County",
+            "Mills County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"La Salle County",
+         "neighboring":[
+            "Atascosa County",
+            "Dimmit County",
+            "Duval County",
+            "Frio County",
+            "McMullen County",
+            "Webb County"
+         ]
+      },
+      {
+         "county":"Lavaca County",
+         "neighboring":[
+            "Colorado County",
+            "DeWitt County",
+            "Fayette County",
+            "Gonzales County",
+            "Jackson County",
+            "Victoria County"
+         ]
+      },
+      {
+         "county":"Lee County",
+         "neighboring":[
+            "Bastrop County",
+            "Burleson County",
+            "Fayette County",
+            "Milam County",
+            "Washington County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Leon County",
+         "neighboring":[
+            "Anderson County",
+            "Brazos County",
+            "Freestone County",
+            "Houston County",
+            "Limestone County",
+            "Madison County",
+            "Robertson County"
+         ]
+      },
+      {
+         "county":"Liberty County",
+         "neighboring":[
+            "Chambers County",
+            "Hardin County",
+            "Harris County",
+            "Jefferson County",
+            "Montgomery County",
+            "Polk County",
+            "San Jacinto County"
+         ]
+      },
+      {
+         "county":"Limestone County",
+         "neighboring":[
+            "Falls County",
+            "Freestone County",
+            "Hill County",
+            "Leon County",
+            "McLennan County",
+            "Navarro County",
+            "Robertson County"
+         ]
+      },
+      {
+         "county":"Lipscomb County",
+         "neighboring":[
+            "Beaver County",
+            "Ellis County",
+            "Hemphill County",
+            "Ochiltree County",
+            "Roberts County"
+         ]
+      },
+      {
+         "county":"Live Oak County",
+         "neighboring":[
+            "Atascosa County",
+            "Bee County",
+            "Duval County",
+            "Jim Wells County",
+            "Karnes County",
+            "McMullen County",
+            "San Patricio County"
+         ]
+      },
+      {
+         "county":"Llano County",
+         "neighboring":[
+            "Blanco County",
+            "Burnet County",
+            "Gillespie County",
+            "Mason County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"Loving County",
+         "neighboring":[
+            "Eddy County",
+            "Lea County",
+            "Reeves County",
+            "Ward County",
+            "Winkler County"
+         ]
+      },
+      {
+         "county":"Lubbock County",
+         "neighboring":[
+            "Crosby County",
+            "Floyd County",
+            "Garza County",
+            "Hale County",
+            "Hockley County",
+            "Lamb County",
+            "Lynn County",
+            "Terry County"
+         ]
+      },
+      {
+         "county":"Lynn County",
+         "neighboring":[
+            "Borden County",
+            "Crosby County",
+            "Dawson County",
+            "Garza County",
+            "Hockley County",
+            "Lubbock County",
+            "Terry County"
+         ]
+      },
+      {
+         "county":"McCulloch County",
+         "neighboring":[
+            "Brown County",
+            "Coleman County",
+            "Concho County",
+            "Mason County",
+            "Menard County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"McLennan County",
+         "neighboring":[
+            "Bell County",
+            "Bosque County",
+            "Coryell County",
+            "Falls County",
+            "Hill County",
+            "Limestone County"
+         ]
+      },
+      {
+         "county":"McMullen County",
+         "neighboring":[
+            "Atascosa County",
+            "Duval County",
+            "La Salle County",
+            "Live Oak County",
+            "Webb County"
+         ]
+      },
+      {
+         "county":"Madison County",
+         "neighboring":[
+            "Brazos County",
+            "Grimes County",
+            "Houston County",
+            "Leon County",
+            "Robertson County",
+            "Walker County"
+         ]
+      },
+      {
+         "county":"Marion County",
+         "neighboring":[
+            "Caddo Parish",
+            "Cass County",
+            "Harrison County",
+            "Morris County",
+            "Upshur County"
+         ]
+      },
+      {
+         "county":"Martin County",
+         "neighboring":[
+            "Andrews County",
+            "Borden County",
+            "Dawson County",
+            "Gaines County",
+            "Glasscock County",
+            "Howard County",
+            "Midland County"
+         ]
+      },
+      {
+         "county":"Mason County",
+         "neighboring":[
+            "Gillespie County",
+            "Kimble County",
+            "Llano County",
+            "McCulloch County",
+            "Menard County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"Matagorda County",
+         "neighboring":[
+            "Brazoria County",
+            "Calhoun County",
+            "Jackson County",
+            "Wharton County"
+         ]
+      },
+      {
+         "county":"Maverick County",
+         "neighboring":[
+            "Dimmit County",
+            "Kinney County",
+            "Uvalde County",
+            "Webb County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Medina County",
+         "neighboring":[
+            "Atascosa County",
+            "Bandera County",
+            "Bexar County",
+            "Frio County",
+            "Uvalde County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Menard County",
+         "neighboring":[
+            "Concho County",
+            "Kimble County",
+            "McCulloch County",
+            "Mason County",
+            "Schleicher County",
+            "Sutton County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Midland County",
+         "neighboring":[
+            "Andrews County",
+            "Ector County",
+            "Glasscock County",
+            "Martin County",
+            "Reagan County",
+            "Upton County"
+         ]
+      },
+      {
+         "county":"Milam County",
+         "neighboring":[
+            "Bell County",
+            "Burleson County",
+            "Falls County",
+            "Lee County",
+            "Robertson County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Mills County",
+         "neighboring":[
+            "Brown County",
+            "Comanche County",
+            "Hamilton County",
+            "Lampasas County",
+            "San Saba County"
+         ]
+      },
+      {
+         "county":"Mitchell County",
+         "neighboring":[
+            "Borden County",
+            "Coke County",
+            "Fisher County",
+            "Howard County",
+            "Nolan County",
+            "Scurry County",
+            "Sterling County"
+         ]
+      },
+      {
+         "county":"Montague County",
+         "neighboring":[
+            "Jefferson County",
+            "Love County",
+            "Clay County",
+            "Cooke County",
+            "Jack County",
+            "Wise County"
+         ]
+      },
+      {
+         "county":"Montgomery County",
+         "neighboring":[
+            "Grimes County",
+            "Harris County",
+            "Liberty County",
+            "San Jacinto County",
+            "Walker County",
+            "Waller County"
+         ]
+      },
+      {
+         "county":"Moore County",
+         "neighboring":[
+            "Carson County",
+            "Dallam County",
+            "Hansford County",
+            "Hartley County",
+            "Hutchinson County",
+            "Oldham County",
+            "Potter County",
+            "Sherman County"
+         ]
+      },
+      {
+         "county":"Morris County",
+         "neighboring":[
+            "Bowie County",
+            "Camp County",
+            "Cass County",
+            "Marion County",
+            "Red River County",
+            "Titus County",
+            "Upshur County"
+         ]
+      },
+      {
+         "county":"Motley County",
+         "neighboring":[
+            "Briscoe County",
+            "Cottle County",
+            "Crosby County",
+            "Dickens County",
+            "Floyd County",
+            "Hall County",
+            "King County"
+         ]
+      },
+      {
+         "county":"Nacogdoches County",
+         "neighboring":[
+            "Angelina County",
+            "Cherokee County",
+            "Rusk County",
+            "San Augustine County",
+            "Shelby County"
+         ]
+      },
+      {
+         "county":"Navarro County",
+         "neighboring":[
+            "Ellis County",
+            "Freestone County",
+            "Henderson County",
+            "Hill County",
+            "Limestone County"
+         ]
+      },
+      {
+         "county":"Newton County",
+         "neighboring":[
+            "Beauregard Parish",
+            "Calcasieu Parish",
+            "Sabine Parish",
+            "Vernon Parish",
+            "Jasper County",
+            "Orange County",
+            "Sabine County"
+         ]
+      },
+      {
+         "county":"Nolan County",
+         "neighboring":[
+            "Coke County",
+            "Fisher County",
+            "Jones County",
+            "Mitchell County",
+            "Runnels County",
+            "Scurry County",
+            "Taylor County"
+         ]
+      },
+      {
+         "county":"Nueces County",
+         "neighboring":[
+            "Aransas County",
+            "Jim Wells County",
+            "Kleberg County",
+            "San Patricio County"
+         ]
+      },
+      {
+         "county":"Ochiltree County",
+         "neighboring":[
+            "Beaver County",
+            "Texas County",
+            "Hansford County",
+            "Lipscomb County",
+            "Roberts County"
+         ]
+      },
+      {
+         "county":"Oldham County",
+         "neighboring":[
+            "Quay County",
+            "Deaf Smith County",
+            "Hartley County",
+            "Moore County",
+            "Potter County",
+            "Randall County"
+         ]
+      },
+      {
+         "county":"Orange County",
+         "neighboring":[
+            "Calcasieu Parish",
+            "Cameron Parish",
+            "Hardin County",
+            "Jasper County",
+            "Jefferson County",
+            "Newton County"
+         ]
+      },
+      {
+         "county":"Palo Pinto County",
+         "neighboring":[
+            "Eastland County",
+            "Erath County",
+            "Hood County",
+            "Jack County",
+            "Parker County",
+            "Stephens County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Panola County",
+         "neighboring":[
+            "Caddo Parish",
+            "De Soto Parish",
+            "Harrison County",
+            "Rusk County",
+            "Shelby County"
+         ]
+      },
+      {
+         "county":"Parker County",
+         "neighboring":[
+            "Hood County",
+            "Jack County",
+            "Johnson County",
+            "Palo Pinto County",
+            "Tarrant County",
+            "Wise County"
+         ]
+      },
+      {
+         "county":"Parmer County",
+         "neighboring":[
+            "Curry County",
+            "Bailey County",
+            "Castro County",
+            "Deaf Smith County",
+            "Lamb County"
+         ]
+      },
+      {
+         "county":"Pecos County",
+         "neighboring":[
+            "Brewster County",
+            "Crane County",
+            "Crockett County",
+            "Jeff Davis County",
+            "Reeves County",
+            "Terrell County",
+            "Ward County"
+         ]
+      },
+      {
+         "county":"Polk County",
+         "neighboring":[
+            "Angelina County",
+            "Hardin County",
+            "Liberty County",
+            "San Jacinto County",
+            "Trinity County",
+            "Tyler County"
+         ]
+      },
+      {
+         "county":"Potter County",
+         "neighboring":[
+            "Armstrong County",
+            "Carson County",
+            "Deaf Smith County",
+            "Moore County",
+            "Oldham County",
+            "Randall County"
+         ]
+      },
+      {
+         "county":"Presidio County",
+         "neighboring":[
+            "Brewster County",
+            "Hudspeth County",
+            "Jeff Davis County"
+         ]
+      },
+      {
+         "county":"Rains County",
+         "neighboring":[
+            "Hopkins County",
+            "Hunt County",
+            "Van Zandt County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Randall County",
+         "neighboring":[
+            "Armstrong County",
+            "Carson County",
+            "Castro County",
+            "Deaf Smith County",
+            "Oldham County",
+            "Potter County",
+            "Swisher County"
+         ]
+      },
+      {
+         "county":"Reagan County",
+         "neighboring":[
+            "Crockett County",
+            "Glasscock County",
+            "Irion County",
+            "Midland County",
+            "Sterling County",
+            "Tom Green County",
+            "Upton County"
+         ]
+      },
+      {
+         "county":"Real County",
+         "neighboring":[
+            "Bandera County",
+            "Edwards County",
+            "Kerr County",
+            "Uvalde County"
+         ]
+      },
+      {
+         "county":"Red River County",
+         "neighboring":[
+            "Choctaw County",
+            "McCurtain County",
+            "Bowie County",
+            "Delta County",
+            "Franklin County",
+            "Lamar County",
+            "Morris County",
+            "Titus County"
+         ]
+      },
+      {
+         "county":"Reeves County",
+         "neighboring":[
+            "Eddy County",
+            "Culberson County",
+            "Jeff Davis County",
+            "Loving County",
+            "Pecos County",
+            "Ward County"
+         ]
+      },
+      {
+         "county":"Refugio County",
+         "neighboring":[
+            "Aransas County",
+            "Bee County",
+            "Calhoun County",
+            "Goliad County",
+            "San Patricio County",
+            "Victoria County"
+         ]
+      },
+      {
+         "county":"Roberts County",
+         "neighboring":[
+            "Carson County",
+            "Gray County",
+            "Hansford County",
+            "Hemphill County",
+            "Hutchinson County",
+            "Lipscomb County",
+            "Ochiltree County",
+            "Wheeler County"
+         ]
+      },
+      {
+         "county":"Robertson County",
+         "neighboring":[
+            "Brazos County",
+            "Burleson County",
+            "Falls County",
+            "Leon County",
+            "Limestone County",
+            "Madison County",
+            "Milam County"
+         ]
+      },
+      {
+         "county":"Rockwall County",
+         "neighboring":[
+            "Collin County",
+            "Dallas County",
+            "Hunt County",
+            "Kaufman County"
+         ]
+      },
+      {
+         "county":"Runnels County",
+         "neighboring":[
+            "Coke County",
+            "Coleman County",
+            "Concho County",
+            "Nolan County",
+            "Taylor County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Rusk County",
+         "neighboring":[
+            "Cherokee County",
+            "Gregg County",
+            "Harrison County",
+            "Nacogdoches County",
+            "Panola County",
+            "Shelby County",
+            "Smith County"
+         ]
+      },
+      {
+         "county":"Sabine County",
+         "neighboring":[
+            "Sabine Parish",
+            "Jasper County",
+            "Newton County",
+            "San Augustine County",
+            "Shelby County"
+         ]
+      },
+      {
+         "county":"San Augustine County",
+         "neighboring":[
+            "Angelina County",
+            "Jasper County",
+            "Nacogdoches County",
+            "Sabine County",
+            "Shelby County"
+         ]
+      },
+      {
+         "county":"San Jacinto County",
+         "neighboring":[
+            "Liberty County",
+            "Montgomery County",
+            "Polk County",
+            "Trinity County",
+            "Walker County"
+         ]
+      },
+      {
+         "county":"San Patricio County",
+         "neighboring":[
+            "Aransas County",
+            "Bee County",
+            "Jim Wells County",
+            "Live Oak County",
+            "Nueces County",
+            "Refugio County"
+         ]
+      },
+      {
+         "county":"San Saba County",
+         "neighboring":[
+            "Brown County",
+            "Burnet County",
+            "Lampasas County",
+            "Llano County",
+            "McCulloch County",
+            "Mason County",
+            "Mills County"
+         ]
+      },
+      {
+         "county":"Schleicher County",
+         "neighboring":[
+            "Concho County",
+            "Crockett County",
+            "Irion County",
+            "Kimble County",
+            "Menard County",
+            "Sutton County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Scurry County",
+         "neighboring":[
+            "Borden County",
+            "Fisher County",
+            "Garza County",
+            "Kent County",
+            "Mitchell County",
+            "Nolan County"
+         ]
+      },
+      {
+         "county":"Shackelford County",
+         "neighboring":[
+            "Callahan County",
+            "Eastland County",
+            "Haskell County",
+            "Jones County",
+            "Stephens County",
+            "Throckmorton County"
+         ]
+      },
+      {
+         "county":"Shelby County",
+         "neighboring":[
+            "De Soto Parish",
+            "Sabine Parish",
+            "Nacogdoches County",
+            "Panola County",
+            "Rusk County",
+            "Sabine County",
+            "San Augustine County"
+         ]
+      },
+      {
+         "county":"Sherman County",
+         "neighboring":[
+            "Cimarron County",
+            "Texas County",
+            "Dallam County",
+            "Hansford County",
+            "Hartley County",
+            "Hutchinson County",
+            "Moore County"
+         ]
+      },
+      {
+         "county":"Smith County",
+         "neighboring":[
+            "Cherokee County",
+            "Gregg County",
+            "Henderson County",
+            "Rusk County",
+            "Upshur County",
+            "Van Zandt County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Somervell County",
+         "neighboring":[
+            "Bosque County",
+            "Erath County",
+            "Hood County",
+            "Johnson County"
+         ]
+      },
+      {
+         "county":"Starr County",
+         "neighboring":[
+            "Brooks County",
+            "Hidalgo County",
+            "Jim Hogg County",
+            "Zapata County"
+         ]
+      },
+      {
+         "county":"Stephens County",
+         "neighboring":[
+            "Eastland County",
+            "Palo Pinto County",
+            "Shackelford County",
+            "Throckmorton County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Sterling County",
+         "neighboring":[
+            "Coke County",
+            "Glasscock County",
+            "Howard County",
+            "Mitchell County",
+            "Reagan County",
+            "Tom Green County"
+         ]
+      },
+      {
+         "county":"Stonewall County",
+         "neighboring":[
+            "Dickens County",
+            "Fisher County",
+            "Haskell County",
+            "Jones County",
+            "Kent County",
+            "King County",
+            "Knox County"
+         ]
+      },
+      {
+         "county":"Sutton County",
+         "neighboring":[
+            "Crockett County",
+            "Edwards County",
+            "Kimble County",
+            "Menard County",
+            "Schleicher County",
+            "Val Verde County"
+         ]
+      },
+      {
+         "county":"Swisher County",
+         "neighboring":[
+            "Armstrong County",
+            "Briscoe County",
+            "Castro County",
+            "Floyd County",
+            "Hale County",
+            "Randall County"
+         ]
+      },
+      {
+         "county":"Tarrant County",
+         "neighboring":[
+            "Dallas County",
+            "Denton County",
+            "Ellis County",
+            "Johnson County",
+            "Parker County",
+            "Wise County"
+         ]
+      },
+      {
+         "county":"Taylor County",
+         "neighboring":[
+            "Callahan County",
+            "Coleman County",
+            "Fisher County",
+            "Jones County",
+            "Nolan County",
+            "Runnels County"
+         ]
+      },
+      {
+         "county":"Terrell County",
+         "neighboring":[
+            "Brewster County",
+            "Crockett County",
+            "Pecos County",
+            "Val Verde County"
+         ]
+      },
+      {
+         "county":"Terry County",
+         "neighboring":[
+            "Cochran County",
+            "Dawson County",
+            "Gaines County",
+            "Hockley County",
+            "Lubbock County",
+            "Lynn County",
+            "Yoakum County"
+         ]
+      },
+      {
+         "county":"Throckmorton County",
+         "neighboring":[
+            "Archer County",
+            "Baylor County",
+            "Haskell County",
+            "Knox County",
+            "Shackelford County",
+            "Stephens County",
+            "Young County"
+         ]
+      },
+      {
+         "county":"Titus County",
+         "neighboring":[
+            "Camp County",
+            "Franklin County",
+            "Morris County",
+            "Red River County"
+         ]
+      },
+      {
+         "county":"Tom Green County",
+         "neighboring":[
+            "Coke County",
+            "Concho County",
+            "Irion County",
+            "Menard County",
+            "Reagan County",
+            "Runnels County",
+            "Schleicher County",
+            "Sterling County"
+         ]
+      },
+      {
+         "county":"Travis County",
+         "neighboring":[
+            "Bastrop County",
+            "Blanco County",
+            "Burnet County",
+            "Caldwell County",
+            "Hays County",
+            "Williamson County"
+         ]
+      },
+      {
+         "county":"Trinity County",
+         "neighboring":[
+            "Angelina County",
+            "Houston County",
+            "Polk County",
+            "San Jacinto County",
+            "Walker County"
+         ]
+      },
+      {
+         "county":"Tyler County",
+         "neighboring":[
+            "Angelina County",
+            "Hardin County",
+            "Jasper County",
+            "Polk County"
+         ]
+      },
+      {
+         "county":"Upshur County",
+         "neighboring":[
+            "Camp County",
+            "Gregg County",
+            "Harrison County",
+            "Marion County",
+            "Morris County",
+            "Smith County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Upton County",
+         "neighboring":[
+            "Crane County",
+            "Crockett County",
+            "Ector County",
+            "Glasscock County",
+            "Midland County",
+            "Reagan County"
+         ]
+      },
+      {
+         "county":"Uvalde County",
+         "neighboring":[
+            "Bandera County",
+            "Edwards County",
+            "Frio County",
+            "Kinney County",
+            "Maverick County",
+            "Medina County",
+            "Real County",
+            "Zavala County"
+         ]
+      },
+      {
+         "county":"Val Verde County",
+         "neighboring":[
+            "Crockett County",
+            "Edwards County",
+            "Kinney County",
+            "Sutton County",
+            "Terrell County"
+         ]
+      },
+      {
+         "county":"Van Zandt County",
+         "neighboring":[
+            "Henderson County",
+            "Hunt County",
+            "Kaufman County",
+            "Rains County",
+            "Smith County",
+            "Wood County"
+         ]
+      },
+      {
+         "county":"Victoria County",
+         "neighboring":[
+            "Calhoun County",
+            "DeWitt County",
+            "Goliad County",
+            "Jackson County",
+            "Lavaca County",
+            "Refugio County"
+         ]
+      },
+      {
+         "county":"Walker County",
+         "neighboring":[
+            "Grimes County",
+            "Houston County",
+            "Madison County",
+            "Montgomery County",
+            "San Jacinto County",
+            "Trinity County"
+         ]
+      },
+      {
+         "county":"Waller County",
+         "neighboring":[
+            "Austin County",
+            "Fort Bend County",
+            "Grimes County",
+            "Harris County",
+            "Montgomery County",
+            "Washington County"
+         ]
+      },
+      {
+         "county":"Ward County",
+         "neighboring":[
+            "Crane County",
+            "Ector County",
+            "Loving County",
+            "Pecos County",
+            "Reeves County",
+            "Winkler County"
+         ]
+      },
+      {
+         "county":"Washington County",
+         "neighboring":[
+            "Austin County",
+            "Brazos County",
+            "Burleson County",
+            "Fayette County",
+            "Grimes County",
+            "Lee County",
+            "Waller County"
+         ]
+      },
+      {
+         "county":"Webb County",
+         "neighboring":[
+            "Dimmit County",
+            "Duval County",
+            "Jim Hogg County",
+            "La Salle County",
+            "McMullen County",
+            "Maverick County",
+            "Zapata County"
+         ]
+      },
+      {
+         "county":"Wharton County",
+         "neighboring":[
+            "Austin County",
+            "Brazoria County",
+            "Colorado County",
+            "Fort Bend County",
+            "Jackson County",
+            "Matagorda County"
+         ]
+      },
+      {
+         "county":"Wheeler County",
+         "neighboring":[
+            "Beckham County",
+            "Roger Mills County",
+            "Collingsworth County",
+            "Donley County",
+            "Gray County",
+            "Hemphill County",
+            "Roberts County"
+         ]
+      },
+      {
+         "county":"Wichita County",
+         "neighboring":[
+            "Cotton County",
+            "Tillman County",
+            "Archer County",
+            "Baylor County",
+            "Clay County",
+            "Wilbarger County"
+         ]
+      },
+      {
+         "county":"Wilbarger County",
+         "neighboring":[
+            "Jackson County",
+            "Tillman County",
+            "Archer County",
+            "Baylor County",
+            "Foard County",
+            "Hardeman County",
+            "Wichita County"
+         ]
+      },
+      {
+         "county":"Willacy County",
+         "neighboring":[
+            "Cameron County",
+            "Hidalgo County",
+            "Kenedy County"
+         ]
+      },
+      {
+         "county":"Williamson County",
+         "neighboring":[
+            "Bastrop County",
+            "Bell County",
+            "Burnet County",
+            "Lee County",
+            "Milam County",
+            "Travis County"
+         ]
+      },
+      {
+         "county":"Wilson County",
+         "neighboring":[
+            "Atascosa County",
+            "Bexar County",
+            "Gonzales County",
+            "Guadalupe County",
+            "Karnes County"
+         ]
+      },
+      {
+         "county":"Winkler County",
+         "neighboring":[
+            "Lea County",
+            "Andrews County",
+            "Ector County",
+            "Loving County",
+            "Ward County"
+         ]
+      },
+      {
+         "county":"Wise County",
+         "neighboring":[
+            "Cooke County",
+            "Denton County",
+            "Jack County",
+            "Montague County",
+            "Parker County",
+            "Tarrant County"
+         ]
+      },
+      {
+         "county":"Wood County",
+         "neighboring":[
+            "Camp County",
+            "Franklin County",
+            "Hopkins County",
+            "Rains County",
+            "Smith County",
+            "Upshur County",
+            "Van Zandt County"
+         ]
+      },
+      {
+         "county":"Yoakum County",
+         "neighboring":[
+            "Lea County",
+            "Cochran County",
+            "Gaines County",
+            "Hockley County",
+            "Terry County"
+         ]
+      },
+      {
+         "county":"Young County",
+         "neighboring":[
+            "Archer County",
+            "Baylor County",
+            "Jack County",
+            "Palo Pinto County",
+            "Stephens County",
+            "Throckmorton County"
+         ]
+      },
+      {
+         "county":"Zapata County",
+         "neighboring":[
+            "Jim Hogg County",
+            "Starr County",
+            "Webb County"
+         ]
+      },
+      {
+         "county":"Zavala County",
+         "neighboring":[
+            "Dimmit County",
+            "Frio County",
+            "Kinney County",
+            "Maverick County",
+            "Medina County",
+            "Uvalde County"
+         ]
+      }
+   ]
+}
